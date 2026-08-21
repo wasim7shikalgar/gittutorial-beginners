@@ -1,0 +1,4 @@
+passwords.txt
+db.sql
+*.log
+!important.log
